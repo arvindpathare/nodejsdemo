@@ -3,7 +3,6 @@
 // ---------------------------------------------
 // Ben C, Oct 2017 - Updated: Apr 2019
 //
-// 
 
 console.log(`### Node.js demo app starting...`);
 
