@@ -15,4 +15,5 @@ COPY src/. .
 
 # Port 3000 for our Express server 
 EXPOSE 3000
+# Entrypoint added
 ENTRYPOINT ["npm", "start"]
