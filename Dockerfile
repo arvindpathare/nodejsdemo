@@ -1,5 +1,4 @@
-ARG IMAGE_BASE=12-alpine
-FROM node:$IMAGE_BASE
+FROM node:12-alpine
 LABEL Name="Node.js Demo App" Version=4.5.0
 ENV NODE_ENV production
 # Working Director
