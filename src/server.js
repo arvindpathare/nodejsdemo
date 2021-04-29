@@ -3,7 +3,7 @@
 // ---------------------------------------------
 // Ben C, Oct 2017 - Updated: Apr 2019
 //
-
+require('newrelic');
 console.log(`### Node.js demo app starting...`);
 
 // Dotenv handy for local config & debugging
